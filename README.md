@@ -24,11 +24,3 @@ Using Python, I conducted a comprehensive analysis of the financial data. This i
 
 To make the insights easily digestible, I created interactive dashboards. Visualization tools such as Matplotlib, Seaborn, and Plotly were employed to represent the data visually.
 
-## Repository Structure
-
-The repository is structured as follows:
-
-- **`data`**: Contains the raw data files obtained during web scraping.
-- **`notebooks`**: Jupyter notebooks for data collection, preprocessing, analysis, and visualization.
-- **`scripts`**: Custom Python scripts for data processing and analysis.
-- **`results`**: Final output files, including data visualizations and any relevant intermediate data.
